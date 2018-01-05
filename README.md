@@ -1,3 +1,3 @@
-# signUp
-Simple account sign up form
-Simple signup form
+## signUp
+Simple account sign up form.
+
