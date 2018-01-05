@@ -1,0 +1,42 @@
+* {
+  font-family: 'helvetica', sans-serif;
+}
+
+label {
+  padding: 2px;
+  margin-top: 1em;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+fieldset {
+  margin-top: 2em;
+  background-color: OliveDrab;
+  width: 300px;  
+}
+
+#main_label {
+  color: black;
+  padding: .5em;
+  position: absolute;
+  margin: 1em;
+  top: -.5em;
+  font-weight: 650;
+}
+
+input {
+  margin: .5em;
+  margin-top: 0;
+  margin-bottom: 1.5em;
+  background-color: gold;
+}
+
+#submit {
+  background: radial-gradient(DarkOliveGreen,black);
+  color: lightgreen;
+  border-radius: 17%;
+  width: 90px;
+  height: 3em;
+  margin-left: 10em;
+  font-size: 1em;
+}
